@@ -2,7 +2,7 @@ This is a collection of pixel art fonts that I have made. They are entirely for 
 
 They are licensed under the [SIL OFL](OFL.txt), see the [OFL FAQ](OFL-FAQ.txt) for usage instructions.
 
-The fonts under the *bg* folder have a black background, the *no-bg* folder has a transparent background.
+The fonts under the *bg* folder have a black background, the *no-bg* folder have a transparent background.
 
 The original Aseprite files are under the *ase* folder.
 
