@@ -21,4 +21,4 @@ char_y = char_h * ((c // 16) - 2)
 
 ### Credits
 
-Phantasm is based heavily on the wonderful [Alagard](https://www.dafont.com/alagard.font) font. It's basically a rescale with some characters redone to fit inside the 10x10 bounding box. Check it out if you're looking for a non-monospaced version!
+Phantasm is based heavily on the wonderful [Alagard](https://www.dafont.com/alagard.font) font by Hewett Tsoi. It's basically a rescale with some characters redone to fit inside the 10x10 bounding box. Check it out if you're looking for a non-monospaced version!
